@@ -18,5 +18,5 @@ ensure
 fastapi
 uvicorn
 jinja2
-
+evaluate
 -e .
